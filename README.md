@@ -7,16 +7,6 @@
 - [How it's written](#How-it's-written)
 - [Inspiration](#Inspiration)
 
-
-# App Demo
-
-![AR online shopping iOS demo](https://user-images.githubusercontent.com/25262431/166336720-4e040eb5-8965-4564-b709-524ed7c9a547.gif)
-
-
-https://user-images.githubusercontent.com/25262431/166336940-211d49ad-1961-4369-be35-b5a7c445116d.mp4
-
-
-
 # How to Run
 First make sure to install XCode version 13 or later and have iPhone X or later versions.
 
